@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\VizibicikliKolcsonzo\bin\Debug\VizibicikliKolcsonzo.exe.config
+C:\Users\balazs.david.420\source\repos\VizibicikliKolcsonzo\bin\Debug\VizibicikliKolcsonzo.exe
+C:\Users\balazs.david.420\source\repos\VizibicikliKolcsonzo\bin\Debug\VizibicikliKolcsonzo.pdb
+C:\Users\balazs.david.420\source\repos\VizibicikliKolcsonzo\obj\Debug\VizibicikliKolcsonzo.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\VizibicikliKolcsonzo\obj\Debug\VizibicikliKolcsonzo.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\VizibicikliKolcsonzo\obj\Debug\VizibicikliKolcsonzo.exe
+C:\Users\balazs.david.420\source\repos\VizibicikliKolcsonzo\obj\Debug\VizibicikliKolcsonzo.pdb
