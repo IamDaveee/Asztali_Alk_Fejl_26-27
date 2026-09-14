@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Diáktanya\bin\Debug\Diáktanya.exe.config
+C:\Users\balazs.david.420\source\repos\Diáktanya\bin\Debug\Diáktanya.exe
+C:\Users\balazs.david.420\source\repos\Diáktanya\bin\Debug\Diáktanya.pdb
+C:\Users\balazs.david.420\source\repos\Diáktanya\obj\Debug\Diáktanya.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Diáktanya\obj\Debug\Diáktanya.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Diáktanya\obj\Debug\Diáktanya.exe
+C:\Users\balazs.david.420\source\repos\Diáktanya\obj\Debug\Diáktanya.pdb

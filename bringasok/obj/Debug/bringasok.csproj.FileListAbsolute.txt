@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\bringasok\bin\Debug\bringasok.exe.config
+C:\Users\balazs.david.420\source\repos\bringasok\bin\Debug\bringasok.exe
+C:\Users\balazs.david.420\source\repos\bringasok\bin\Debug\bringasok.pdb
+C:\Users\balazs.david.420\source\repos\bringasok\obj\Debug\bringasok.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\bringasok\obj\Debug\bringasok.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\bringasok\obj\Debug\bringasok.exe
+C:\Users\balazs.david.420\source\repos\bringasok\obj\Debug\bringasok.pdb

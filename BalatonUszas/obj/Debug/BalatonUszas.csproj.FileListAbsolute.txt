@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\BalatonUszas\bin\Debug\BalatonUszas.exe.config
+C:\Users\balazs.david.420\source\repos\BalatonUszas\bin\Debug\BalatonUszas.exe
+C:\Users\balazs.david.420\source\repos\BalatonUszas\bin\Debug\BalatonUszas.pdb
+C:\Users\balazs.david.420\source\repos\BalatonUszas\obj\Debug\BalatonUszas.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\BalatonUszas\obj\Debug\BalatonUszas.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\BalatonUszas\obj\Debug\BalatonUszas.exe
+C:\Users\balazs.david.420\source\repos\BalatonUszas\obj\Debug\BalatonUszas.pdb

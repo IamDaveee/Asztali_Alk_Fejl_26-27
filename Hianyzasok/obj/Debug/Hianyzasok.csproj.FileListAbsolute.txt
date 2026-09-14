@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Hianyzasok\bin\Debug\Hianyzasok.exe.config
+C:\Users\balazs.david.420\source\repos\Hianyzasok\bin\Debug\Hianyzasok.exe
+C:\Users\balazs.david.420\source\repos\Hianyzasok\bin\Debug\Hianyzasok.pdb
+C:\Users\balazs.david.420\source\repos\Hianyzasok\obj\Debug\Hianyzasok.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Hianyzasok\obj\Debug\Hianyzasok.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Hianyzasok\obj\Debug\Hianyzasok.exe
+C:\Users\balazs.david.420\source\repos\Hianyzasok\obj\Debug\Hianyzasok.pdb
