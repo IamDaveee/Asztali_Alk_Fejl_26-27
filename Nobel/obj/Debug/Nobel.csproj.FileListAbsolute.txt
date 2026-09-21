@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Nobel\bin\Debug\Nobel.exe.config
+C:\Users\balazs.david.420\source\repos\Nobel\bin\Debug\Nobel.exe
+C:\Users\balazs.david.420\source\repos\Nobel\bin\Debug\Nobel.pdb
+C:\Users\balazs.david.420\source\repos\Nobel\obj\Debug\Nobel.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Nobel\obj\Debug\Nobel.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Nobel\obj\Debug\Nobel.exe
+C:\Users\balazs.david.420\source\repos\Nobel\obj\Debug\Nobel.pdb

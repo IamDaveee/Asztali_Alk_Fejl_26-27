@@ -1,0 +1,214 @@
+1901,orvosi,Emil Adolf von Behring
+1902,orvosi,Ronald Ross
+1903,orvosi,Niels Ryberg Finsen
+1904,orvosi,Ivan Petrovich Pavlov
+1905,orvosi,Robert Koch
+1906,orvosi,Camillo Golgi
+1906,orvosi,Santiago Ramón y Cajal
+1907,orvosi,Charles Louis Alphonse Laveran
+1908,orvosi,Ilya Ilyich Mechnikov
+1908,orvosi,Paul Ehrlich
+1909,orvosi,Emil Theodor Kocher
+1910,orvosi,Albrecht Kossel
+1911,orvosi,Allvar Gullstrand
+1912,orvosi,Alexis Carrel
+1913,orvosi,Charles Robert Richet
+1914,orvosi,Robert Bárány
+1919,orvosi,Jules Bordet
+1920,orvosi,Schack August Steenberg Krogh
+1922,orvosi,Archibald Vivian Hill
+1922,orvosi,Otto Fritz Meyerhof
+1923,orvosi,Frederick Grant Banting
+1923,orvosi,John James Rickard Macleod
+1924,orvosi,Willem Einthoven
+1926,orvosi,Johannes Andreas Grib Fibiger
+1927,orvosi,Julius Wagner-Jauregg
+1928,orvosi,Charles Jules Henri Nicolle
+1929,orvosi,Christiaan Eijkman
+1929,orvosi,Sir Frederick Gowland Hopkins
+1930,orvosi,Karl Landsteiner
+1931,orvosi,Otto Heinrich Warburg
+1932,orvosi,Sir Charles Scott Sherrington
+1932,orvosi,Edgar Douglas Adrian
+1933,orvosi,Thomas Hunt Morgan
+1934,orvosi,George Hoyt Whipple
+1934,orvosi,George Richards Minot
+1934,orvosi,William Parry Murphy
+1935,orvosi,Hans Spemann
+1936,orvosi,Sir Henry Hallett Dale
+1936,orvosi,Otto Loewi
+1937,orvosi,Albert von Szent-Györgyi Nagyrápolt
+1938,orvosi,Corneille Jean François Heymans
+1939,orvosi,Gerhard Domagk
+1943,orvosi,Henrik Carl Peter Dam
+1943,orvosi,Edward Adelbert Doisy
+1944,orvosi,Joseph Erlanger
+1944,orvosi,Herbert Spencer Gasser
+1945,orvosi,Sir Alexander Fleming
+1945,orvosi,Ernst Boris Chain
+1945,orvosi,Sir Howard Walter Florey
+1946,orvosi,Hermann Joseph Muller
+1947,orvosi,Carl Ferdinand Cori
+1947,orvosi,Gerty Theresa Cori, née Radnitz
+1947,orvosi,Bernardo Alberto Houssay
+1948,orvosi,Paul Hermann Müller
+1949,orvosi,Walter Rudolf Hess
+1949,orvosi,Antonio Caetano de Abreu Freire Egas Moniz
+1950,orvosi,Edward Calvin Kendall
+1950,orvosi,Tadeus Reichstein
+1950,orvosi,Philip Showalter Hench
+1951,orvosi,Max Theiler
+1952,orvosi,Selman Abraham Waksman
+1953,orvosi,Hans Adolf Krebs
+1953,orvosi,Fritz Albert Lipmann
+1954,orvosi,John Franklin Enders
+1954,orvosi,Thomas Huckle Weller
+1954,orvosi,Frederick Chapman Robbins
+1955,orvosi,Axel Hugo Theodor Theorell
+1956,orvosi,André Frédéric Cournand
+1956,orvosi,Werner Forssmann
+1956,orvosi,Dickinson W. Richards
+1957,orvosi,Daniel Bovet
+1958,orvosi,George Wells Beadle
+1958,orvosi,Edward Lawrie Tatum
+1958,orvosi,Joshua Lederberg
+1959,orvosi,Severo Ochoa
+1959,orvosi,Arthur Kornberg
+1960,orvosi,Sir Frank Macfarlane Burnet
+1960,orvosi,Peter Brian Medawar
+1961,orvosi,Georg von Békésy
+1962,orvosi,Francis Harry Compton Crick
+1962,orvosi,James Dewey Watson
+1962,orvosi,Maurice Hugh Frederick Wilkins
+1963,orvosi,Sir John Carew Eccles
+1963,orvosi,Alan Lloyd Hodgkin
+1963,orvosi,Andrew Fielding Huxley
+1964,orvosi,Konrad Bloch
+1964,orvosi,Feodor Lynen
+1965,orvosi,François Jacob
+1965,orvosi,André Lwoff
+1965,orvosi,Jacques Monod
+1966,orvosi,Peyton Rous
+1966,orvosi,Charles Brenton Huggins
+1967,orvosi,Ragnar Granit
+1967,orvosi,Haldan Keffer Hartline
+1967,orvosi,George Wald
+1968,orvosi,Robert W. Holley
+1968,orvosi,Har Gobind Khorana
+1968,orvosi,Marshall W. Nirenberg
+1969,orvosi,Max Delbrück
+1969,orvosi,Alfred D. Hershey
+1969,orvosi,Salvador E. Luria
+1970,orvosi,Sir Bernard Katz
+1970,orvosi,Ulf von Euler
+1970,orvosi,Julius Axelrod
+1971,orvosi,Earl W. Sutherland, Jr.
+1972,orvosi,Gerald M. Edelman
+1972,orvosi,Rodney R. Porter
+1973,orvosi,Karl von Frisch
+1973,orvosi,Konrad Lorenz
+1973,orvosi,Nikolaas Tinbergen
+1974,orvosi,Albert Claude
+1974,orvosi,Christian de Duve
+1974,orvosi,George E. Palade
+1975,orvosi,David Baltimore
+1975,orvosi,Renato Dulbecco
+1975,orvosi,Howard Martin Temin
+1976,orvosi,Baruch S. Blumberg
+1976,orvosi,D. Carleton Gajdusek
+1977,orvosi,Roger Guillemin
+1977,orvosi,Andrew V. Schally
+1977,orvosi,Rosalyn Yalow
+1978,orvosi,Werner Arber
+1978,orvosi,Daniel Nathans
+1978,orvosi,Hamilton O. Smith
+1979,orvosi,Allan M. Cormack
+1979,orvosi,Godfrey N. Hounsfield
+1980,orvosi,Baruj Benacerraf
+1980,orvosi,Jean Dausset
+1980,orvosi,George D. Snell
+1981,orvosi,Roger W. Sperry
+1981,orvosi,David H. Hubel
+1981,orvosi,Torsten N. Wiesel
+1982,orvosi,Sune K. Bergström
+1982,orvosi,Bengt I. Samuelsson
+1982,orvosi,John R. Vane
+1983,orvosi,Barbara McClintock
+1984,orvosi,Niels K. Jerne
+1984,orvosi,Georges J.F. Köhler
+1984,orvosi,César Milstein
+1985,orvosi,Michael S. Brown
+1985,orvosi,Joseph L. Goldstein
+1986,orvosi,Stanley Cohen
+1986,orvosi,Rita Levi-Montalcini
+1987,orvosi,Susumu Tonegawa
+1988,orvosi,Sir James W. Black
+1988,orvosi,Gertrude B. Elion
+1988,orvosi,George H. Hitchings
+1989,orvosi,J. Michael Bishop
+1989,orvosi,Harold E. Varmus
+1990,orvosi,Joseph E. Murray
+1990,orvosi,E. Donnall Thomas
+1991,orvosi,Erwin Neher
+1991,orvosi,Bert Sakmann
+1992,orvosi,Edmond H. Fischer
+1992,orvosi,Edwin G. Krebs
+1993,orvosi,Richard J. Roberts
+1993,orvosi,Phillip A. Sharp
+1994,orvosi,Alfred G. Gilman
+1994,orvosi,Martin Rodbell
+1995,orvosi,Edward B. Lewis
+1995,orvosi,Christiane Nüsslein-Volhard
+1995,orvosi,Eric F. Wieschaus
+1996,orvosi,Peter C. Doherty
+1996,orvosi,Rolf M. Zinkernagel
+1997,orvosi,Stanley B. Prusiner
+1998,orvosi,Robert F. Furchgott
+1998,orvosi,Louis J. Ignarro
+1998,orvosi,Ferid Murad
+1999,orvosi,Günter Blobel
+2000,orvosi,Arvid Carlsson
+2000,orvosi,Paul Greengard
+2000,orvosi,Eric R. Kandel
+2001,orvosi,Leland H. Hartwell
+2001,orvosi,Tim Hunt
+2001,orvosi,Sir Paul M. Nurse
+2002,orvosi,Sydney Brenner
+2002,orvosi,H. Robert Horvitz
+2002,orvosi,John E. Sulston
+2003,orvosi,Paul C. Lauterbur
+2003,orvosi,Sir Peter Mansfield
+2004,orvosi,Richard Axel
+2004,orvosi,Linda B. Buck
+2005,orvosi,Barry J. Marshall
+2005,orvosi,J. Robin Warren
+2006,orvosi,Andrew Z. Fire
+2006,orvosi,Craig C. Mello
+2007,orvosi,Mario R. Capecchi
+2007,orvosi,Sir Martin J. Evans
+2007,orvosi,Oliver Smithies
+2008,orvosi,Harald zur Hausen
+2008,orvosi,Françoise Barré-Sinoussi
+2008,orvosi,Luc Montagnier
+2009,orvosi,Elizabeth H. Blackburn
+2009,orvosi,Carol W. Greider
+2009,orvosi,Jack W. Szostak
+2010,orvosi,Robert G. Edwards
+2011,orvosi,Bruce A. Beutler
+2011,orvosi,Jules A. Hoffmann
+2011,orvosi,Ralph M. Steinman
+2012,orvosi,Sir John B. Gurdon
+2012,orvosi,Shinya Yamanaka
+2013,orvosi,James E. Rothman
+2013,orvosi,Randy W. Schekman
+2013,orvosi,Thomas C. Südhof
+2014,orvosi,John O'Keefe
+2014,orvosi,May-Britt Moser
+2014,orvosi,Edvard I. Moser
+2015,orvosi,William C. Campbell
+2015,orvosi,Satoshi Ōmura
+2015,orvosi,Youyou Tu
+2016,orvosi,Yoshinori Ohsumi
+2017,orvosi,Jeffrey C. Hall
+2017,orvosi,Michael Rosbash
+2017,orvosi,Michael W. Young
