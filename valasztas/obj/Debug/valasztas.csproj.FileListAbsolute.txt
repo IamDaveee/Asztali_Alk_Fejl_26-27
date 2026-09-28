@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\valasztas\bin\Debug\valasztas.exe.config
+C:\Users\balazs.david.420\source\repos\valasztas\bin\Debug\valasztas.exe
+C:\Users\balazs.david.420\source\repos\valasztas\bin\Debug\valasztas.pdb
+C:\Users\balazs.david.420\source\repos\valasztas\obj\Debug\valasztas.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\valasztas\obj\Debug\valasztas.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\valasztas\obj\Debug\valasztas.exe
+C:\Users\balazs.david.420\source\repos\valasztas\obj\Debug\valasztas.pdb
