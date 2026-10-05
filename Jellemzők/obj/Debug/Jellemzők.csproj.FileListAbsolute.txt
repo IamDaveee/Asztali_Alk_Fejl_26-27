@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Jellemzők\bin\Debug\Jellemzők.exe.config
+C:\Users\balazs.david.420\source\repos\Jellemzők\bin\Debug\Jellemzők.exe
+C:\Users\balazs.david.420\source\repos\Jellemzők\bin\Debug\Jellemzők.pdb
+C:\Users\balazs.david.420\source\repos\Jellemzők\obj\Debug\Jellemzők.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Jellemzők\obj\Debug\Jellemzők.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Jellemzők\obj\Debug\Jellemzők.exe
+C:\Users\balazs.david.420\source\repos\Jellemzők\obj\Debug\Jellemzők.pdb

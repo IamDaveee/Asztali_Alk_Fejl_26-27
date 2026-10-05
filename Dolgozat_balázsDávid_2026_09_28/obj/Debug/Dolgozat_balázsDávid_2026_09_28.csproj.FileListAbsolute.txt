@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Dolgozat_balázsDávid_2026_09_28\bin\Debug\Dolgozat_balázsDávid_2026_09_28.exe.config
+C:\Users\balazs.david.420\source\repos\Dolgozat_balázsDávid_2026_09_28\bin\Debug\Dolgozat_balázsDávid_2026_09_28.exe
+C:\Users\balazs.david.420\source\repos\Dolgozat_balázsDávid_2026_09_28\bin\Debug\Dolgozat_balázsDávid_2026_09_28.pdb
+C:\Users\balazs.david.420\source\repos\Dolgozat_balázsDávid_2026_09_28\obj\Debug\Dolgozat_balázsDávid_2026_09_28.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Dolgozat_balázsDávid_2026_09_28\obj\Debug\Dolgozat_balázsDávid_2026_09_28.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Dolgozat_balázsDávid_2026_09_28\obj\Debug\Dolgozat_balázsDávid_2026_09_28.exe
+C:\Users\balazs.david.420\source\repos\Dolgozat_balázsDávid_2026_09_28\obj\Debug\Dolgozat_balázsDávid_2026_09_28.pdb

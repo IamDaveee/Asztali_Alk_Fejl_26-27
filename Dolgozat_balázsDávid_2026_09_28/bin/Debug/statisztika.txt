@@ -1,0 +1,5 @@
+1. színpad - elhangzott dalok száma: 6
+2. színpad - elhangzott dalok száma: 13
+3. színpad - elhangzott dalok száma: 20
+4. színpad - elhangzott dalok száma: 8
+5. színpad - elhangzott dalok száma: 22
