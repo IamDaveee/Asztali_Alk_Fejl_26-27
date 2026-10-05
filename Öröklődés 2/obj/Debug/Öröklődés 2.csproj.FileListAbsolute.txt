@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Öröklődés 2\bin\Debug\Öröklődés 2.exe.config
+C:\Users\balazs.david.420\source\repos\Öröklődés 2\bin\Debug\Öröklődés 2.exe
+C:\Users\balazs.david.420\source\repos\Öröklődés 2\bin\Debug\Öröklődés 2.pdb
+C:\Users\balazs.david.420\source\repos\Öröklődés 2\obj\Debug\Öröklődés 2.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Öröklődés 2\obj\Debug\Öröklődés 2.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Öröklődés 2\obj\Debug\Öröklődés 2.exe
+C:\Users\balazs.david.420\source\repos\Öröklődés 2\obj\Debug\Öröklődés 2.pdb
