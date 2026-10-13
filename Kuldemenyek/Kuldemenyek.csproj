@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BelfoldiCsomag.cs" />
+    <Compile Include="ErtekesCsomag.cs" />
     <Compile Include="Kuldemeny.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -1,0 +1,7 @@
+C:\Users\Dávid\source\repos\Kuldemenyek\bin\Debug\Kuldemenyek.exe.config
+C:\Users\Dávid\source\repos\Kuldemenyek\bin\Debug\Kuldemenyek.exe
+C:\Users\Dávid\source\repos\Kuldemenyek\bin\Debug\Kuldemenyek.pdb
+C:\Users\Dávid\source\repos\Kuldemenyek\obj\Debug\Kuldemenyek.csproj.AssemblyReference.cache
+C:\Users\Dávid\source\repos\Kuldemenyek\obj\Debug\Kuldemenyek.csproj.CoreCompileInputs.cache
+C:\Users\Dávid\source\repos\Kuldemenyek\obj\Debug\Kuldemenyek.exe
+C:\Users\Dávid\source\repos\Kuldemenyek\obj\Debug\Kuldemenyek.pdb

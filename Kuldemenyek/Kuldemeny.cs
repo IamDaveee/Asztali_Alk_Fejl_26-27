@@ -29,6 +29,8 @@ namespace Kuldemenyek
                 {
                     throw new Exception("Hiba! A vonalkódnak pontosan 9 karakter hosszúságúnak kell lennie!");
                 }
+                vonalkod = value;
+
             }
         }
 
@@ -43,7 +45,7 @@ namespace Kuldemenyek
             get => szallitasiKategoria;
             private set
             {
-                string character = vonalkod.Substring(0, 1).ToUpper();
+                string character = Vonalkod.Substring(0, 1).ToUpper();
                 switch (character)
                 {
                     case "E":
@@ -75,7 +77,7 @@ namespace Kuldemenyek
             }
         }
 
-        public Kuldemeny(string cimzett, string vonalkod, int suly)
+        public Kuldemeny(string cimzett, string vonalkod, double suly)
         {
             Cimzett = cimzett;
             Vonalkod = vonalkod;
@@ -89,9 +91,9 @@ namespace Kuldemenyek
             Suly = 1.0;
         }
 
-        public void Statusz()
+        public virtual string Statusz()
         {
-            Console.WriteLine($"A(z) $@{Vonalkod} vonalkódú csomag úton van. Címzett: {Cimzett}. Súly: {Suly}.kg");
+            return $"A(z) {Vonalkod} vonalkódú csomag úton van. Címzett: {Cimzett}. Súly: {Suly}.kg";
         }
 
         public int Napok()
@@ -100,7 +102,7 @@ namespace Kuldemenyek
             return napok;
         }
 
-        public void Frissit()
+        public virtual void Frissit()
         {
             if (Vonalkod != "S00000000")
             {
@@ -112,15 +114,15 @@ namespace Kuldemenyek
             string cimzett = Console.ReadLine();
 
             Console.WriteLine("Kérem az új vonalkódot (pontosan 9 karakter hosszúságú legyen): ");
-            string vonalkod = Console.ReadLine();
+            string vonkod = Console.ReadLine();
 
             Console.WriteLine("Kérem a csomag új súlyát (kg): ");
-            int suly = Convert.ToInt32(Console.ReadLine());
+            double suly = Convert.ToDouble(Console.ReadLine());
 
             try
             {
                 Cimzett = cimzett;
-                Vonalkod = vonalkod;
+                Vonalkod = vonkod;
                 Suly = suly;
                 Console.WriteLine("Sikeres adatfrissítés!");
             }
@@ -131,9 +133,9 @@ namespace Kuldemenyek
             
         }
 
-        public void KezelesiUtasitas()
+        public virtual string KezelesiUtasitas()
         {
-            Console.WriteLine($"A(z) {Vonalkod} azonosítójú küldemény kezelése: {SzallitaiKategoria} szabályai szerint.");
+            return $"A(z) {Vonalkod} azonosítójú küldemény kezelése: {SzallitaiKategoria} szabályai szerint.";
         }
     }
 }
