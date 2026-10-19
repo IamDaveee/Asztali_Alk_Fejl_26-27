@@ -16,7 +16,7 @@ namespace Receptek
         string Nev
         {
             get => nev;
-            set=>nev=string.IsNullOrEmpty(value)  ? throw new Exception("Hiba! A név nem lehet üres!") : value;
+            set=>nev=string.IsNullOrWhiteSpace(value)  ? throw new Exception("Hiba! A név nem lehet üres!") : value;
         }
         public List<string> Osszetevok
         {
@@ -44,7 +44,7 @@ namespace Receptek
             set => letrehozasIdeje = value < Convert.ToDateTime("2000.01.01") || value > DateTime.Now ? throw new Exception("Hiba! A Dátum nem kehet régebbi mint: 2000.01.01 és újabb mint a jelenlegi idő") : value;
         }
 
-        public Recept(string nev, List<string> osszetevok, int elkeszitesiIdo, string letrehozasIdeje)
+        public Recept(string nev, List<string> osszetevok, int elkeszitesiIdo, DateTime letrehozasIdeje)
         {
             Nev = nev;
             Osszetevok = osszetevok;
@@ -66,7 +66,7 @@ namespace Receptek
             LetrehozasIdeje = Convert.ToDateTime("2000.01.01");
         }
 
-        public void HozzavalokListazasa()
+        public virtual void HozzavalokListazasa()
         {
             string hozzavalok = "";
             foreach (var item in Osszetevok)
@@ -76,7 +76,7 @@ namespace Receptek
             Console.WriteLine(hozzavalok.Remove(hozzavalok.Length - 2, 2));
         }
 
-        public string AllergenekEllenorzese()
+        public virtual string AllergenekEllenorzese()
         {
             if (Osszetevok.Contains("glutén") || Osszetevok.Contains("tej") || Osszetevok.Contains("tojás") || Osszetevok.Contains("dió"))
             {

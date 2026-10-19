@@ -5,3 +5,10 @@ C:\Users\Dave\source\repos\Receptek\obj\Debug\Receptek.csproj.AssemblyReference.
 C:\Users\Dave\source\repos\Receptek\obj\Debug\Receptek.csproj.CoreCompileInputs.cache
 C:\Users\Dave\source\repos\Receptek\obj\Debug\Receptek.exe
 C:\Users\Dave\source\repos\Receptek\obj\Debug\Receptek.pdb
+C:\Users\balazs.david.420\source\repos\Asztali_Alk_Fejl_26-27\Receptek\bin\Debug\Receptek.exe.config
+C:\Users\balazs.david.420\source\repos\Asztali_Alk_Fejl_26-27\Receptek\bin\Debug\Receptek.exe
+C:\Users\balazs.david.420\source\repos\Asztali_Alk_Fejl_26-27\Receptek\bin\Debug\Receptek.pdb
+C:\Users\balazs.david.420\source\repos\Asztali_Alk_Fejl_26-27\Receptek\obj\Debug\Receptek.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Asztali_Alk_Fejl_26-27\Receptek\obj\Debug\Receptek.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Asztali_Alk_Fejl_26-27\Receptek\obj\Debug\Receptek.exe
+C:\Users\balazs.david.420\source\repos\Asztali_Alk_Fejl_26-27\Receptek\obj\Debug\Receptek.pdb
