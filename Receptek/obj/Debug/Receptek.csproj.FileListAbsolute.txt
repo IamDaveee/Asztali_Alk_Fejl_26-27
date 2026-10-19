@@ -1,0 +1,7 @@
+C:\Users\Dave\source\repos\Receptek\bin\Debug\Receptek.exe.config
+C:\Users\Dave\source\repos\Receptek\bin\Debug\Receptek.exe
+C:\Users\Dave\source\repos\Receptek\bin\Debug\Receptek.pdb
+C:\Users\Dave\source\repos\Receptek\obj\Debug\Receptek.csproj.AssemblyReference.cache
+C:\Users\Dave\source\repos\Receptek\obj\Debug\Receptek.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\Receptek\obj\Debug\Receptek.exe
+C:\Users\Dave\source\repos\Receptek\obj\Debug\Receptek.pdb
