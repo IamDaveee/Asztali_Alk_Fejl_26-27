@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Absztrakt\bin\Debug\Absztrakt.exe.config
+C:\Users\balazs.david.420\source\repos\Absztrakt\bin\Debug\Absztrakt.exe
+C:\Users\balazs.david.420\source\repos\Absztrakt\bin\Debug\Absztrakt.pdb
+C:\Users\balazs.david.420\source\repos\Absztrakt\obj\Debug\Absztrakt.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Absztrakt\obj\Debug\Absztrakt.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Absztrakt\obj\Debug\Absztrakt.exe
+C:\Users\balazs.david.420\source\repos\Absztrakt\obj\Debug\Absztrakt.pdb
