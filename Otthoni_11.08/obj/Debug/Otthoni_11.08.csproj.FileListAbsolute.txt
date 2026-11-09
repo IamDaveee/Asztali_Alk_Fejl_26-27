@@ -1,0 +1,7 @@
+C:\Users\Dave\source\repos\Otthoni_11.08\bin\Debug\Otthoni_11.08.exe.config
+C:\Users\Dave\source\repos\Otthoni_11.08\bin\Debug\Otthoni_11.08.exe
+C:\Users\Dave\source\repos\Otthoni_11.08\bin\Debug\Otthoni_11.08.pdb
+C:\Users\Dave\source\repos\Otthoni_11.08\obj\Debug\Otthoni_11.08.csproj.AssemblyReference.cache
+C:\Users\Dave\source\repos\Otthoni_11.08\obj\Debug\Otthoni_11.08.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\Otthoni_11.08\obj\Debug\Otthoni_11.08.exe
+C:\Users\Dave\source\repos\Otthoni_11.08\obj\Debug\Otthoni_11.08.pdb
