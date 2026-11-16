@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Okosotthon\obj\Debug\Okosotthon.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Okosotthon\obj\Debug\Okosotthon.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Okosotthon\bin\Debug\Okosotthon.exe.config
+C:\Users\balazs.david.420\source\repos\Okosotthon\bin\Debug\Okosotthon.exe
+C:\Users\balazs.david.420\source\repos\Okosotthon\bin\Debug\Okosotthon.pdb
+C:\Users\balazs.david.420\source\repos\Okosotthon\obj\Debug\Okosotthon.exe
+C:\Users\balazs.david.420\source\repos\Okosotthon\obj\Debug\Okosotthon.pdb
