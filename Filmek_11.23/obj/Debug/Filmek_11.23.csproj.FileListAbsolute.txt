@@ -1,0 +1,7 @@
+C:\Users\balazs.david.420\source\repos\Filmek_11.23\bin\Debug\Filmek_11.23.exe.config
+C:\Users\balazs.david.420\source\repos\Filmek_11.23\bin\Debug\Filmek_11.23.exe
+C:\Users\balazs.david.420\source\repos\Filmek_11.23\bin\Debug\Filmek_11.23.pdb
+C:\Users\balazs.david.420\source\repos\Filmek_11.23\obj\Debug\Filmek_11.23.csproj.AssemblyReference.cache
+C:\Users\balazs.david.420\source\repos\Filmek_11.23\obj\Debug\Filmek_11.23.csproj.CoreCompileInputs.cache
+C:\Users\balazs.david.420\source\repos\Filmek_11.23\obj\Debug\Filmek_11.23.exe
+C:\Users\balazs.david.420\source\repos\Filmek_11.23\obj\Debug\Filmek_11.23.pdb
